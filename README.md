@@ -1,16 +1,27 @@
 ### Hi there 👋
 
+I'm a developer living in Tokyo Japan.
+
+
+🚀 Currently working on making JavaScript design patterns more [reusable](https://github.com/hype08/JS-design-pattern-snippets) with VSCode snippets.
+
 <!--
 **hype08/hype08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
+- 🌱 Always learning. 
+
+Currently:
+
+Rust. 
+
+- 💬 Ask me about anything!
 -->
