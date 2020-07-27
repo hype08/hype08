@@ -3,7 +3,9 @@
 I'm a developer living in Tokyo Japan.
 
 
-🚀 Currently working on making JavaScript design patterns more [reusable](https://github.com/hype08/JS-design-pattern-snippets) with VSCode snippets.
+🚀 Currently: 
+- Working on making JavaScript design patterns more [reusable](https://github.com/hype08/JS-design-pattern-snippets) with VSCode snippets.
+- Building a [movie_rec app](https://github.com/hype08/movie_recs) with React.js, Redux, and Styled Components.
 
 <!--
 **hype08/hype08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
