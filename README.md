@@ -4,7 +4,7 @@ I'm a developer living in Tokyo Japan.
 
 
 🚀 Building/working on: 
-- JavaScript design pattern [snippets](https://github.com/hype08/JS-design-pattern-snippets)for  VSCode.
+- JavaScript design pattern [snippets](https://github.com/hype08/JS-design-pattern-snippets) for  VSCode.
 - A [movie_rec app](https://github.com/hype08/movie_recs) with React.js, Redux, and Styled Components.
 
 <!--
