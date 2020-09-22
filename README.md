@@ -6,6 +6,8 @@ I'm a developer living in Tokyo Japan.
 🚀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hype08)
+
 
 <!--
 **hype08/hype08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
