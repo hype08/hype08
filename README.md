@@ -3,9 +3,9 @@
 I'm a developer living in Tokyo Japan.
 
 
-🚀 Building/working on: 
-- JavaScript design pattern [snippets](https://github.com/hype08/JS-design-pattern-snippets) for  VSCode.
-- A [movie_rec app](https://github.com/hype08/movie_recs) with React.js, Redux, and Styled Components.
+🚀
+
+![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true)
 
 <!--
 **hype08/hype08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,6 @@ I'm a developer living in Tokyo Japan.
 
 Currently enthusiastic about 🤓
 
-Rust, AWS AppSync, Apollo GraphQL.
+Rust, Terraform, Apollo GraphQL.
 
 - 💬 Ask me about anything!
