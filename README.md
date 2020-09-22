@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Henry!
 
-I'm a developer living in Tokyo Japan.
+![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true) 
 
-
-🚀
-
-![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hype08)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hype08) 
 
 
 <!--
