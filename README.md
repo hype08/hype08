@@ -13,9 +13,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/jlobos/instagram-web-api/issues/186) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
-2. ❗️ Opened issue [#180](https://github.com/jlobos/instagram-web-api/issues/180) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
-3. 🎉 Merged PR [#17](https://github.com//hype08/next.ts/pull/17) in [hype08/next.ts](https://github.com//hype08/next.ts)
+1. 🎉 Merged PR [#114](https://github.com/hype08/next.ts/pull/114) in [hype08/next.ts](https://github.com/hype08/next.ts)
+2. 🗣 Commented on [#186](https://github.com/jlobos/instagram-web-api/issues/186) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
+3. ❗️ Opened issue [#180](https://github.com/jlobos/instagram-web-api/issues/180) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
 4. 🎉 Merged PR [#66](https://github.com//hype08/TS-react-native/pull/66) in [hype08/TS-react-native](https://github.com//hype08/TS-react-native)
 5. 🎉 Merged PR [#1](https://github.com//hype08/puppeteer-instagram-login/pull/1) in [hype08/puppeteer-instagram-login](https://github.com//hype08/puppeteer-instagram-login)
 
