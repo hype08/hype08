@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Henry!
+### Hi there 👋 I'm Henry! 
+I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.com/hype08/) ! 🦊
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true) 
 
@@ -20,13 +22,11 @@
 5. 🎉 Merged PR [#1](https://github.com//hype08/puppeteer-instagram-login/pull/1) in [hype08/puppeteer-instagram-login](https://github.com//hype08/puppeteer-instagram-login)
 
 
-
-
 <!--END_SECTION:activity-->
 
 
 Currently enthusiastic about 🤓
 
-Rust, Terraform, Apollo GraphQL.
+Rust, PostgreSQL
 
 - 💬 Ask me about anything!
