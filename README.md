@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Henry! 
-I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.com/hype08/) ! 🦊
+I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.com/hype08/) ! 🦊 (Private repositories)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hype08&show_icons=true) 
@@ -27,6 +27,6 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 
 Currently enthusiastic about 🤓
 
-Rust, PostgreSQL
+Rust, PostgreSQL. Learning Prisma.
 
 - 💬 Ask me about anything!
