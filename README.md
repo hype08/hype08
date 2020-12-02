@@ -15,11 +15,11 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/hype08/next.ts/pull/155) in [hype08/next.ts](https://github.com/hype08/next.ts)
-2. 🎉 Merged PR [#161](https://github.com/hype08/next.ts/pull/161) in [hype08/next.ts](https://github.com/hype08/next.ts)
-3. 🎉 Merged PR [#114](https://github.com/hype08/next.ts/pull/114) in [hype08/next.ts](https://github.com/hype08/next.ts)
-4. 🗣 Commented on [#186](https://github.com/jlobos/instagram-web-api/issues/186) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
-5. ❗️ Opened issue [#180](https://github.com/jlobos/instagram-web-api/issues/180) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
+1. 🎉 Merged PR [#162](https://github.com/hype08/next.ts/pull/162) in [hype08/next.ts](https://github.com/hype08/next.ts)
+2. 🎉 Merged PR [#155](https://github.com/hype08/next.ts/pull/155) in [hype08/next.ts](https://github.com/hype08/next.ts)
+3. 🎉 Merged PR [#161](https://github.com/hype08/next.ts/pull/161) in [hype08/next.ts](https://github.com/hype08/next.ts)
+4. 🎉 Merged PR [#114](https://github.com/hype08/next.ts/pull/114) in [hype08/next.ts](https://github.com/hype08/next.ts)
+5. 🗣 Commented on [#186](https://github.com/jlobos/instagram-web-api/issues/186) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
 
 
 <!--END_SECTION:activity-->
