@@ -14,11 +14,11 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#180](https://github.com/hype08/next.ts/pull/180) in [hype08/next.ts](https://github.com/hype08/next.ts)
-2. 🎉 Merged PR [#5](https://github.com/hype08/niiice-backend/pull/5) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
-3. 🎉 Merged PR [#6](https://github.com/hype08/niiice-backend/pull/6) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
-4. 🎉 Merged PR [#162](https://github.com/hype08/next.ts/pull/162) in [hype08/next.ts](https://github.com/hype08/next.ts)
-5. 🎉 Merged PR [#155](https://github.com/hype08/next.ts/pull/155) in [hype08/next.ts](https://github.com/hype08/next.ts)
+1. 🎉 Merged PR [#181](https://github.com/hype08/next.ts/pull/181) in [hype08/next.ts](https://github.com/hype08/next.ts)
+2. 🎉 Merged PR [#180](https://github.com/hype08/next.ts/pull/180) in [hype08/next.ts](https://github.com/hype08/next.ts)
+3. 🎉 Merged PR [#5](https://github.com/hype08/niiice-backend/pull/5) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
+4. 🎉 Merged PR [#6](https://github.com/hype08/niiice-backend/pull/6) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
+5. 🎉 Merged PR [#162](https://github.com/hype08/next.ts/pull/162) in [hype08/next.ts](https://github.com/hype08/next.ts)
 
 
 <!--END_SECTION:activity-->
