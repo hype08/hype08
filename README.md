@@ -14,11 +14,11 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-2. 🎉 Merged PR [#181](https://github.com/hype08/next.ts/pull/181) in [hype08/next.ts](https://github.com/hype08/next.ts)
-3. 🎉 Merged PR [#180](https://github.com/hype08/next.ts/pull/180) in [hype08/next.ts](https://github.com/hype08/next.ts)
-4. 🎉 Merged PR [#5](https://github.com/hype08/niiice-backend/pull/5) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
-5. 🎉 Merged PR [#6](https://github.com/hype08/niiice-backend/pull/6) in [hype08/niiice-backend](https://github.com/hype08/niiice-backend)
+1. ❗️ Closed issue [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+2. 🗣 Commented on [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+3. ❗️ Opened issue [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+4. 🎉 Merged PR [#181](https://github.com/hype08/next.ts/pull/181) in [hype08/next.ts](https://github.com/hype08/next.ts)
+5. 🎉 Merged PR [#180](https://github.com/hype08/next.ts/pull/180) in [hype08/next.ts](https://github.com/hype08/next.ts)
 
 
 <!--END_SECTION:activity-->
