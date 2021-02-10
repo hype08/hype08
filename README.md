@@ -16,9 +16,9 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
 2. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-3. ❗️ Opened issue [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-4. ❗️ Closed issue [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-5. 🗣 Commented on [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+3. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+4. ❗️ Opened issue [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
+5. ❗️ Closed issue [#47](https://github.com/vercel/nextjs-subscription-payments/issues/47) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
 
 
 <!--END_SECTION:activity-->
