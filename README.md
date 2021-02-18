@@ -26,6 +26,6 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 
 Currently enthusiastic about 🤓
 
-Rust, PostgreSQL. Learning Prisma.
+Rust. 
 
 - 💬 Ask me about anything!
