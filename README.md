@@ -13,16 +13,6 @@ I'm currently trying out Gitlab, so you can also find me [here](https://gitlab.c
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/yairEO/tagify/issues/722) in [yairEO/tagify](https://github.com/yairEO/tagify)
-2. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-3. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-4. 🗣 Commented on [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-5. ❗️ Opened issue [#50](https://github.com/vercel/nextjs-subscription-payments/issues/50) in [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
-
-
-<!--END_SECTION:activity-->
-
 
 Currently enthusiastic about 🤓
 
